@@ -1,2 +1,2 @@
 # The--Spark-Foundation-Internship-Task-Task1.ipynb
-Supervised Machine Learning with Linear Regression. 
+Predicted the scores of the students on the basis of the hours they render for studies with the help of Supervised Machine Learning ( Linear Regression) performed in Jupyter Notebook with the help of Python3. 
